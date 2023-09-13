@@ -1,0 +1,36 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#calendar {
+    background-color: #fff;
+}
+
+#timeslot {
+    width: 100%;
+}
+
+.btn-primary {
+    margin-top: 20px;
+    width: 100%;
+}
+
+h5 {
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 200px;
+
+
+}
